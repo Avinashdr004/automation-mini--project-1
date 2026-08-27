@@ -23,3 +23,5 @@ df.to_excel(r"C:\Users\avina\Documents\validation_Report2.xlsx",index=False)
 
 cursor.close()
 conn.close()
+
+# added a comment to check changes added to the repo
